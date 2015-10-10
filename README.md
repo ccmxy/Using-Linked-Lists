@@ -1,2 +1,3 @@
-# Using-Linked-Lists
-My first time using linked lists
+# Using-Linked-Queue
+
+A linked queue without memory leaks
